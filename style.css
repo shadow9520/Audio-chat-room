@@ -2,8 +2,42 @@ body{
   background-color:black;
 }
 h1{
-  color:white;
+  color:goldenrod;
+}
+h2{
+  color:mediumvioletred;
+  width:2in;
 }
 p{
   color:white;
+  font-family:subpixel-antialiased;
+}
+h4{
+
+  
+  color:lightgrey;
+  
+  text-align: right;
+  
+}
+
+
+p1{
+  color:#00a31b;
+  font-family:cursive;
+}
+
+p2{
+  color:red;
+  font-family:fantasy;
+}
+
+.copyr{
+  height: 100%;
+  width: 100%;
+  background-color:rgb(65, 65, 65);
+  background-opacity:25%;
+}
+.copyr p{
+  color: white;
 }
