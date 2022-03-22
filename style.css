@@ -41,3 +41,18 @@ p2{
 .copyr p{
   color: white;
 }
+
+
+
+
+
+/*This is the button for the welcome text
+Needs to be changed so that the text is automatic.
+
+
+#typebutton{
+  width: 30%;
+  height: 30px;
+  background-color:darkgray;
+  color:yellow;
+  }
